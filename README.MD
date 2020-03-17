@@ -8,15 +8,15 @@ attention : This code did't use mysql and jwt tokens, only uses the exspress and
 npm run mulai
 ```
 Tambahkan URL
-![alt text](https://github.com/FirmanDwiP/bitly/1.png "Langkah 1")
+![alt text](https://github.com/FirmanDwiP/bitly/blob/master/1.png "Langkah 1")
 Klick Button
-![alt text](https://github.com/FirmanDwiP/bitly/2.png "Langkah 2")
+![alt text](https://github.com/FirmanDwiP/bitly/blob/master/2.png "Langkah 2")
 Ketika hover ke url pendek maka muncul :
-![alt text](https://github.com/FirmanDwiP/bitly/2a.png "Langkah 2a")
+![alt text](https://github.com/FirmanDwiP/bitly/blob/master/2a.png "Langkah 2a")
 Url pendek ketika di klik
-![alt text](https://github.com/FirmanDwiP/bitly/3.png "Langkah 3")
+![alt text](https://github.com/FirmanDwiP/bitly/blob/master/3.png "Langkah 3")
 Kembali ke localhost:5000 lalu refresh
-![alt text](https://github.com/FirmanDwiP/bitly/4.png "Langkah 4")
+![alt text](https://github.com/FirmanDwiP/bitly/blob/master/4.png "Langkah 4")
 
 HOW TO USE (untuk pertama kali)
 ```sh
